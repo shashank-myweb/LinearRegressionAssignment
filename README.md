@@ -66,6 +66,8 @@ With respect to borrowers following considerations can be considered as risk for
 ## Contact
 Created by [@githubusername] - feel free to contact me!
 
+[ r = frac{sum (xi - bar{x})(yi - bar{y})}{sqrt{sum (xi - bar{x})^2 sum (yi - bar{y})^2}} ]
+
 
 <!-- Optional -->
 <!-- ## License -->
