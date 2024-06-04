@@ -57,6 +57,6 @@ After couple of iterations a suitable model has been devised which fits the requ
 - statsmodels version - 0.14.0
 
 ## Other tools Used
-- Python v3.3
+- Python v3.11.7
 - Anaconda package
 - Jupyter notebook
